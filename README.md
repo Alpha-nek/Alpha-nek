@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Yazan
-- 👀 I’m interested in Deep Learning applications in Medicine
-- 🌱 I’m currently learning Reinforcement Learning, Graph Neural Networks, Python, Cancer genetic analysis
-
-<!---
-Alpha-nek/Alpha-nek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Yazan Al-Fanek. I have been an internal medicine physician for many years. I'm trying to find my purpose in a post-burnout world. Inspired by Wonka -the movie- (2023), I've decided to embark on a new journey in AI, and hope to share with you my projects in hopes to inspire you and to make this world a better place.
+- 👀 I’m interested in Deep Learning applications in Medicine and Biology
+- 🌱 I’m currently learning Python, Flow-matching, Graph Neural Networks, Computational Biology, and Protein Design 
